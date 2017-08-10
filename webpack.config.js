@@ -11,7 +11,7 @@ module.exports = {
         main:'./src/css/mian.css'
     },
     output: {
-        filename: './dist/main.css',
+        filename: './dist/css/main.css',
     },
 	module: {
         loaders: [
